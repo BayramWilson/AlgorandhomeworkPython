@@ -1,0 +1,15 @@
+Neue Algorand-Wallet erfolgreich erstellt!
+==================================================
+Öffentliche Adresse: IIALXAXTMY7JRZLAS5OSRF5QJYC3KPSBOHNWDFYQOYB5BXGK2CIKY7PDDM
+Mnemonische Phrase (zur Wiederherstellung): reduce arm battle badge trigger tag barely pipe sell monitor text theory shuffle ask claw spray metal orange sense lounge property nature frost abandon useless
+==================================================
+
+WICHTIG:
+Bewahre deine mnemonische Phrase sicher auf. Mit ihr kann jeder auf deine Wallet zugreifen.
+Teile sie niemals mit jemandem, dem du nicht vertraust.
+
+Nächste Schritte:
+Um diese Wallet im Algorand TestNet zu verwenden, benötigst du einige Test-Algos.
+Gehe zum Algorand TestNet Dispenser, um dein Konto aufzuladen:
+https://dispenser.testnet.aws.algodev.network/
+--------------------------------------------------
